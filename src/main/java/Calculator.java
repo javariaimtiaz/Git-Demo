@@ -32,6 +32,9 @@ public class Calculator {
     public double multiply(double a, double b) {
         return a * b;
     }
+    public double mul(double a, double b) {
+        return a * b;
+    }
 
     /**
      * Divides 2 numbers
